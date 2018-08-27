@@ -28,7 +28,7 @@ We have a small set of quality-of-life guidelines for contributing to `purescrip
 * If possible, please avoid requiring new dependencies.
 
 ### Filing issues
-If you have a general question about the project, it's best to ask on the [PureScript user forum](https://purescript-users.ml) or the [functional programming Slack](https://functionalprogramming.slack.com/) than to open a new issue. If you have run into a bug in the project, then please do open an issue! When you do, we ask that you follow a few steps which are outlined in our issues template. The gist of it is here:
+If you have a general question about the project, it's best to ask on the [PureScript user forum](https://discourse.purescript.org/) or the [functional programming Slack](https://functionalprogramming.slack.com/) than to open a new issue. If you have run into a bug in the project, then please do open an issue! When you do, we ask that you follow a few steps which are outlined in our issues template. The gist of it is here:
 
 * Verify the problem is indeed with `purescript-options` (not with Pulp, Bower, or PureScript);
 * Record what versions you are using for PureScript and `purescript-options`
